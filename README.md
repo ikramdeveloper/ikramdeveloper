@@ -11,9 +11,6 @@
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://www.twitter.com/ikramdev)  -->
 
 
----
-
-
 
 <h1 align="left">Hi 👋, I'm Ikram Ul Haq</h1>
 <h3 align="left">A Full Stack Web Developer</h3>
@@ -88,7 +85,11 @@
 
 [![Ikram's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramdeveloper&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ikramdeveloper/ikramdeveloper/blob/master/devcard.svg" width="400" alt="Ikram Ul Haq's Dev Card"/></a>
+
+---
 
 <h3 align="left">Support:</h3>
 <p width='100%'><a href="https://www.buymeacoffee.com/ikramdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ikramdev" /></a></p><br>
