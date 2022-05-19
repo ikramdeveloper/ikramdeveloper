@@ -11,7 +11,7 @@
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://www.twitter.com/ikramdev)  -->
 
 
-
+---
 
 
 
@@ -38,6 +38,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikramdeveloper" alt="ikramdeveloper" /></a> </p>
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ikramulhaqdev24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ikramulhaqdev24" height="30" width="40" /></a>
@@ -50,6 +52,8 @@
 
 <!-- [![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/13859212/ikram-ul-haq) 
 [![Ikram StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13859212)](https://stackoverflow.com/users/13859212/ikram-ul-haq) -->
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -79,6 +83,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+  
+---
 
 [![Ikram's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramdeveloper&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
