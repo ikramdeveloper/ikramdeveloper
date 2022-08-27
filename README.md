@@ -17,9 +17,9 @@
 
 <p align="left"> <a href="https://twitter.com/ikramdev" target="blank"><img src="https://img.shields.io/twitter/follow/ikramdev?logo=twitter&style=for-the-badge" alt="ikramdev" /></a> </p>
 
-- 🔭 I’m looking for a web developer job
+- 🔭 I'm a MERN stack developer working in a software house in Pakistan
 
-- 🌱 I’m currently learning **Redux, GraphQL,**
+- 🌱 I’m currently learning **Redux, GraphQL, NextJS**
 
 <!-- - 👨‍💻 All of my projects are available at [coming soon](coming soon) -->
 
