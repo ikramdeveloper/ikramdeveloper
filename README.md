@@ -15,7 +15,7 @@
 <h1 align="left">Hi 👋, I'm Ikram Ul Haq</h1>
 <h3 align="left">A Full Stack Web Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ikramdev" target="blank"><img src="https://img.shields.io/twitter/follow/ikramdev?logo=twitter&style=for-the-badge" alt="ikramdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ikramdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/ikramdev?logo=twitter&style=for-the-badge" alt="ikramdev" /></a> </p>
 
 - 🔭 I'm a MERN stack developer working in a software house in Pakistan
 
