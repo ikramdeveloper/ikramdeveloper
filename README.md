@@ -15,7 +15,7 @@
 <h1 align="left">Hi 👋, I'm Ikram Ul Haq</h1>
 <h3 align="left">A Full Stack Web Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ikramdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/ikramdev?logo=twitter&style=for-the-badge" alt="ikramdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ikramdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/ikramdeveloper?logo=twitter&style=for-the-badge" alt="ikramdev" /></a> </p>
 
 - 🔭 I'm a MERN stack developer working in a software house in Pakistan
 
@@ -40,8 +40,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ikramulhaqdev24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ikramulhaqdev24" height="30" width="40" /></a>
-<a href="https://twitter.com/ikramdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikramdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ikramdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikramdev" height="30" width="40" /></a>
+<a href="https://twitter.com/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikramdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikramdev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13859212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13859212" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ikramulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ikramulhaq" height="30" width="40" /></a>
 <a href="https://fb.com/ikramulhaq9637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ikramulhaq9637" height="30" width="40" /></a>
