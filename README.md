@@ -21,7 +21,7 @@
 
 - 🔭 I'm a MERN stack developer working in a software house in Pakistan
 
-- 🌱 I’m currently learning **Python & DevOps**
+- 🌱 I’m currently learning **Python**
 
 <!-- - 👨‍💻 All of my projects are available at [coming soon](coming soon) -->
 
