@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ikramdeveloper" /> </p>
 
-- 🔭 I'm a MERN stack developer working in a software house in Pakistan
+- 🔭 I'm a full stack developer working in a software house in Pakistan
 
 - 🌱 I’m currently learning **Python**
 
@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **JavaScript, ReactJS, NodeJS, NextJS, GraphQL, Docker**
 
-- 📫 How to reach me **m.ikramch22@gmail.com**
+- 📫 Reach me through **m.ikramch22@gmail.com**
 
 <!-- - 📄 Know about my experiences [coming soon](coming soon) -->
 
