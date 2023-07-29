@@ -25,7 +25,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [coming soon](coming soon) -->
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, NextJS, GraphQL, Docker**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NodeJS, NextJS, GraphQL, Docker**
 
 - 📫 Reach me through **m.ikramch22@gmail.com**
 
