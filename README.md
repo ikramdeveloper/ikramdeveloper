@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ikramdeveloper" /> </p>
 
-- 🔭 I'm a full stack developer working at [Pixelpk Technologies](https://www.linkedin.com/company/pixelpk/) in Pakistan
-- 🖥️  See my portfolio at [https://ikram-portfolio.netlify.app/](http://ikram-portfolio.netlify.app/)
-- ✉️  You can contact me at [m.ikramch22@gmail.com](mailto:m.ikramch22@gmail.com)
-- 🧠  I'm learning **Cloud Services & Python**
-- 🤝  I'm open to collaborating on interesting JavaScript projects
+- 🔭 I'm a full stack developer
+- 🖥️  View my linkedin profile at [https://www.linkedin.com/in/ikramdeveloper](https://www.linkedin.com/in/ikramdeveloper)
+- ✉️  You can contact me at [ikramdeveloper24@gmail.com](mailto:ikramdeveloper24@gmail.com)
+- 🧠  I'm learning **Python & AI**
+- 🤝  I'm open to collaborating on interesting projects
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikramdeveloper" alt="ikramdeveloper" /></a> </p>
