@@ -5,12 +5,13 @@
 
 - 🔭 I'm a full stack developer
 - 🖥️  View my linkedin profile at [https://www.linkedin.com/in/ikramdeveloper](https://www.linkedin.com/in/ikramdeveloper)
+- 💼  View my portfolio at: [https://ikramdeveloper.vercel.app/](https://ikramdeveloper.vercel.app/)
 - ✉️  You can contact me at [ikramdeveloper24@gmail.com](mailto:ikramdeveloper24@gmail.com)
 - 🧠  I'm learning **Python & AI**
 - 🤝  I'm open to collaborating on interesting projects
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikramdeveloper" alt="ikramdeveloper" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikramdeveloper" alt="ikramdeveloper" /></a> </p> -->
 
 ---
 
