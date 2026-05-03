@@ -5,7 +5,7 @@
 
 - 🔭 I'm a full stack developer
 - 🖥️  View my linkedin profile at [https://www.linkedin.com/in/ikramdeveloper](https://www.linkedin.com/in/ikramdeveloper)
-- 💼  View my portfolio at: [https://ikramdeveloper.vercel.app/](https://ikramdeveloper.vercel.app/)
+- 💼  View my portfolio at: [https://ikramdeveloper.com/](https://ikramdeveloper.com/)
 - ✉️  You can contact me at [ikramdeveloper24@gmail.com](mailto:ikramdeveloper24@gmail.com)
 - 🧠  I'm learning **Python & AI**
 - 🤝  I'm open to collaborating on interesting projects
@@ -13,22 +13,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikramdeveloper" alt="ikramdeveloper" /></a> </p> -->
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen:ikramdeveloper" height="30" width="40" /></a>
+
+<!-- <h3 align="left">Connect with me:</h3>
+<p>
 <a href="https://twitter.com/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter:ikramdeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin:ikramdeveloper" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13859212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow:ikramdeveloper" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox:ikramdeveloper" height="30" width="40" /></a>
-<a href="https://fb.com/ikramdeveloper24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook:ikramdeveloper" height="30" width="40" /></a>
-  <a href="https://instagram.com/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram:ikramdeveloper" height="30" width="40" /></a>
   <a href="https://dev.to/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ikramdeveloper" height="30" width="40" /></a>
   <a href="https://medium.com/@ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ikramdeveloper" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ikramdeveloper" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ikramdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikramdeveloper" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- [![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/13859212/ikram-ul-haq) 
 [![Ikram StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13859212)](https://stackoverflow.com/users/13859212/ikram-ul-haq) -->
